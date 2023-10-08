@@ -6,4 +6,4 @@ Data sources:
 - Kp Values: https://kp.gfz-potsdam.de/app/files/Kp_ap_since_1932.txt
 
 Team: Solar Explorer
-![alt text](https://github.com/S-N-2019/NASA_SpaceApps_Challenge_2023/blob/main/logo.png?raw=true)
+![alt text](https://github.com/S-N-2019/NASA_SpaceApps_Challenge_2023/blob/main/SolarExplorerLogo.png?raw=true)
